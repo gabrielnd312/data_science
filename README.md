@@ -18,8 +18,8 @@ I'm a versatile professional with a background in **economics, advanced design s
 ## Projects:
 
 
----
-
+--- Airbnb Data Analysis - Tokyo/JP => bit.ly/3J4TKDD
+   
 
 
 
